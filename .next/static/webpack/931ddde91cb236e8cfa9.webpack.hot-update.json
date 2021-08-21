@@ -1,0 +1,1 @@
+{"c":["webpack"],"r":["pages/blog/[slug]"],"m":["./node_modules/marked/lib/marked.js","./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2Fblog%2F%5Bslug%5D&absolutePagePath=C%3A%5Cvue%5Crestaurant%5Cnextproj%5Cpages%5Cblog%5C%5Bslug%5D.js!","./pages/blog/[slug].js"]}
